@@ -1,0 +1,2 @@
+import{A as t}from"./index.3afc2887.js";import"./index.2850a5ba.js";import"./iframe.89438b01.js";import"./index.c508329c.js";import"./jsx-runtime.bdc4d8ef.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/eliasallex.png",alt:"Elias Alexandre"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.3418421d.js.map
